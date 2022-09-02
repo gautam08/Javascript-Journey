@@ -1,0 +1,33 @@
+Script to upload
+
+
+# Steps
+
+
+
+## Step 1
+
+- [] Get access to the google indexing API
+
+- [] Be able to make call to the API with a sample link
+
+
+
+## Step 2
+
+- [] Create a js script to get all the links from a JSON and make calls to the Google API
+
+- [] Create a web page with form input allowing user to updaload the files and click a button to initialte the process
+
+- [] Use the script to perform the task
+
+
+
+## Step 3
+
+- [] Create a chrome extention
+
+- [] Add the aove functionalities to the extention
+
+- [] Figure out how to add
+
