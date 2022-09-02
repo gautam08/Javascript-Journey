@@ -5,7 +5,7 @@ import json
 import pandas as pd
 
 # https://developers.google.com/search/apis/indexing-api/v3/prereqs#header_2
-JSON_KEY_FILE = "1.json"
+JSON_KEY_FILE = "<Enter Your Json File Here>"
 SCOPES = ["https://www.googleapis.com/auth/indexing"]
 
 credentials = ServiceAccountCredentials.from_json_keyfile_name(JSON_KEY_FILE, scopes=SCOPES)
